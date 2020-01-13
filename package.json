@@ -6,7 +6,7 @@
     "test": "yarn jest"
   },
   "main": "src/index.js",
-  "repository": "git@github.com:logzio/rough-object-size.git",
+  "repository": "git@github.com:logzio/rough-object-size",
   "author": "nir winkler <madvinking@gmail.com>",
   "keywords": [
     "object size"
