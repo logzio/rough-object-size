@@ -5,10 +5,10 @@
 </p>
 
 
-# return object size max
+# return max object size
 
 ## Usage
-tou can set  env variolas OBJECT_SIZE_MAX_LOOPS to change the default 1000 iteration loop
+use OBJECT_SIZE_MAX_LOOPS to change the default 1000 iteration loop
 ```javascript
 
   const { roughObjectSize } = require('rough-object-size');
